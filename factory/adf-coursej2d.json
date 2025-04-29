@@ -1,0 +1,9 @@
+{
+	"name": "adf-coursej2d",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4042acd3-f83b-49af-b716-e42d5e7bee22",
+		"tenantId": "6f2b9889-f2b8-4557-be1b-f21ba3206fd3"
+	}
+}
